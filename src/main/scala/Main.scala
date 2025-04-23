@@ -1,9 +1,3 @@
-// scala2
-// object Main extends App {
-//     println("Hello, World!")
-// }
-
-// scala3
 @main def main(): Unit = {
     println("Hello, World!")
 
